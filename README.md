@@ -1,2 +1,5 @@
-# NeedBots
-Система необходимостей; State Machine; Global Update; Система менеджера ботов, как в Assassins Creed
+# SimsBots
+State Machine; 
+Global Update;
+Система необходимостей;
+Система менеджера ботов, как в Assassins Creed
